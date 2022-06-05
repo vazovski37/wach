@@ -63,10 +63,10 @@ nav .logo img{
 .aS{
     top: 15%;
     position: absolute;
-    width: 30%;
+    width: 35%;
     border-radius: 16px;
     background-image: linear-gradient(to right, #1f1f1f,rgba(0, 0, 0, 0.266));
-    left: 65%;
+    left: 60%;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -102,7 +102,7 @@ nav .logo img{
 .pics img{
     height: 15%;
     width: 50%;
-    padding-top: 50px;
+    padding-top: 25%;
     border-radius: 8px;
 
 }
